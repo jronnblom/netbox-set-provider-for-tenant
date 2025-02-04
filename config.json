@@ -1,0 +1,17 @@
+{
+    "tenant_groups": [
+        "drift-ad-kunder",
+        "egen-miljo"
+    ],
+    "device_roles": [
+        "asa-at-customer",
+        "usg-at-customer"
+    ],
+    "internet_providers": {
+        "hogsbynat.se": "Högsbynät AB",
+        "84grams.net": "84 Gram",
+        "bredband2.com": "Bredband 2",
+        "bahnhof.se": "Bahnhof",
+        "unknown": "Unknown"
+    }
+} 
