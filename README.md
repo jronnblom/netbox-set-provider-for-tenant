@@ -10,6 +10,12 @@ This script automatically updates the internet provider information for sites in
   ```bash
   pip install pynetbox python-dotenv
   ```
+## Netbox prerequisites
+
+<img width="956" alt="Screenshot 2025-02-10 at 13 00 59" src="https://github.com/user-attachments/assets/e102af51-ae85-421f-9e6f-b5df777b5b0d" />
+<img width="1349" alt="Screenshot 2025-02-10 at 13 01 09" src="https://github.com/user-attachments/assets/3bbed6a1-28f1-4362-91c0-d4a1eaeabd9b" />
+
+
 
 ## Configuration
 
